@@ -4,8 +4,9 @@ My name is Andrew Kogan and I'm from New York. <br>
 📝 I'm currently practicing Python with CareerWise NY and Pioneer Research. <br>
 💡 Fun fact: I have a pet dog! <br>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1ybXRlbGVqYXh6MHR1dTc2aTVteDR0b25vYjFvMGNzdDhoaDBvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qv0RHf9BTSctn1SlDj/giphy.gif" width="300" height="400" />
-<img src="https://media1.tenor.com/m/BW79x4OUJnAAAAAC/whoopdidy-scoop.gif" width="391" height="400" />
+<p align="center">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1ybXRlbGVqYXh6MHR1dTc2aTVteDR0b25vYjFvMGNzdDhoaDBvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qv0RHf9BTSctn1SlDj/giphy.gif" width="391" height="400" /> <img src="https://media1.tenor.com/m/BW79x4OUJnAAAAAC/whoopdidy-scoop.gif" width="391" height="400" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndrewKogan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
