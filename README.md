@@ -1,16 +1,15 @@
 ## Hi there 👋
+My name is Andrew Kogan and I'm from New York.
+🎓 I work as a Junior Coder at JP Morgan Chase and I am a student at Brooklyn Technical High School.
+📝 I'm currently practicing Python with CareerWise NY and Pioneer Research.
+💡 Fun fact: I have a pet dog!
 
-<!--
-**AndrewKogan/AndrewKogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![238200437-de038172-e903-4951-926c-755878deb0b4](https://github.com/user-attachments/assets/40f3c4fd-2be6-42e3-983f-b8a49a451c73)
+![source](https://github.com/user-attachments/assets/bef26787-1ef2-4701-a758-dad9ea6758cd)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/AndrewKogan/AndrewKogan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewKogan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewKogan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
