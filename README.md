@@ -7,12 +7,6 @@ My name is Andrew Kogan and I'm from New York. <br>
 ![238200437-de038172-e903-4951-926c-755878deb0b4](https://github.com/user-attachments/assets/40f3c4fd-2be6-42e3-983f-b8a49a451c73)
 ![source](https://github.com/user-attachments/assets/bef26787-1ef2-4701-a758-dad9ea6758cd)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrewKogan/AndrewKogan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndrewKogan/AndrewKogan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndrewKogan/AndrewKogan/output/pacman-contribution-graph.svg">
-</picture>
-<img src="https://raw.githubusercontent.com/AndrewKogan/AndrewKogan/output/snake.svg" alt="Snake animation" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndrewKogan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewKogan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
