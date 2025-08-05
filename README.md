@@ -5,7 +5,8 @@ My name is Andrew Kogan and I'm from New York. <br>
 💡 Fun fact: I have a pet dog! <br>
 
 ![238200437-de038172-e903-4951-926c-755878deb0b4](https://github.com/user-attachments/assets/40f3c4fd-2be6-42e3-983f-b8a49a451c73)
-![source](https://github.com/user-attachments/assets/bef26787-1ef2-4701-a758-dad9ea6758cd)
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1ybXRlbGVqYXh6MHR1dTc2aTVteDR0b25vYjFvMGNzdDhoaDBvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qv0RHf9BTSctn1SlDj/giphy.gif
+" width="391" height="400" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndrewKogan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
